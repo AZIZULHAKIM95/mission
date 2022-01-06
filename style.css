@@ -1,0 +1,115 @@
+body{
+    font-family: 'Righteous', cursive;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.margin{
+    margin-bottom: 7%;
+}
+span{
+    color: rgb(18, 122, 18);
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 40px;
+}
+.zero{
+    display: flex;
+}
+.first{
+    background-color: rgb(2, 104, 19);
+    padding: 10px 30px;
+    border-radius: 10%;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.id1{
+    border-left: 5px solid rgb(76, 179, 45);
+    border-radius: 0.8%;
+}
+.second{
+    width: 50%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.second img{
+    width: 200%;
+}
+#id2{
+    text-align: center;
+}
+.back1{
+    background-color: rgb(139, 196, 66);
+    border-radius: 10%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
+    display: table;
+}
+.i-m{
+    height: 200px;
+}
+.back2{
+    background-color: lightgreen;
+    border-radius: 10%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
+    display: table;
+}
+.back3{
+    background-color: lightskyblue;
+    border-radius: 10%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
+    display: table;
+}
+.forth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.forth img{
+    width: 200%;
+}
+.bc-img{
+    background-image: url(images/shapes/gh.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bd-img{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(images/shapes/kk.jpg);
+}
+.fifth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.fifth img{
+    width: 190%;
+}
+.center{
+    text-align: center;
+}
+.seven{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.seven img{
+    width: 170%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(137, 155, 145);
+    padding: 3%;
+}
